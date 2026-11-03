@@ -20,6 +20,7 @@
 
 | Проект | Описание | Стек |
 |---|---|---|
+| [**PharmaFlow**](https://github.com/RamazanSagynbek/PharmaFlow) | Система управления автоматизированным аптечным складом и цифровой двойник конвейера: FEFO по сериям, лотки со штрихкодами GS1, автомат-дозатор, ручной отбор, сортер с повторным кругом, доки аптек. Готовится интеграция с 1С | Python · FastAPI · SQLAlchemy · PostgreSQL · Docker · CI |
 | [**CryptoBot**](https://github.com/RamazanSagynbek/TradingBot) | Платформа автоматической торговли: 6 стратегий, ML-сигналы (XGBoost + LSTM + анализ тональности), бэктестинг, дашборд в реальном времени через WebSocket, работа с несколькими биржами | FastAPI · React · TypeScript · PostgreSQL · Celery · Redis · Docker · CI/CD |
 | [**QAJET**](https://github.com/RamazanSagynbek/qajet) | Платформа для студентов: жильё и соседи, аренда с фотоотчётами, маркетплейс, услуги, чаты, учебные группы, события, админ-панель, покрытие feature-тестами | Laravel 13 · PostgreSQL · Tailwind · Docker · PHPUnit |
 | [**CHAILAT QR-меню**](https://github.com/RamazanSagynbek/chailat-menu) | Реальный проект для ресторана в Алматы: мобильное меню по QR-коду на трёх языках, с корзиной · [демо](https://rinatdidar800-dot.github.io/chailat-menu/) | JavaScript · HTML/CSS |
